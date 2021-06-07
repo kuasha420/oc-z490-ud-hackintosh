@@ -4,31 +4,32 @@ Opencore Bootloader EFI and config.plist file with all required Drivers and Kext
 
 ## Included Software
 
-OpenCore 0.6.9
-AppleALC 1.6.0
-Lilu 1.5.3
-NVMeFix 1.0.7
-RealtekRTL8111 2.4.2
-VirtualSMC 1.2.3
-WhateverGreen 1.4.9
+| Library        | Version |
+| -------------- | ------- |
+| OpenCore       | 0.6.9   |
+| -------        | ------- |
+| AppleALC       | 1.6.0   |
+| Lilu           | 1.5.3   |
+| NVMeFix        | 1.0.7   |
+| RealtekRTL8111 | 2.4.2   |
+| VirtualSMC     | 1.2.3   |
+| WhateverGreen  | 1.4.9   |
 
 ## BIOS SETTINGS
 
-OS Mode:
-Other OS with UEFI Only
-or, Windows 8/10 (CSM Disabled)
-Secure Boot:
-Disabled
-Aboce 4G Decode:
-Enabled
-Resizable BAR:
-Disabled
-SuperIO:
-Disabled
-VD-x:
-Enabled
-VT-d:
-You can leave it disabled or enable it if you need it for Other OS. (MacOS can't/doesn't use VT-d)
+OS Mode: _Other OS with UEFI Only_ or, _Windows 8/10 (CSM Disabled)_
+
+Secure Boot: _Disabled_
+
+Aboce 4G Decode: _Enabled_
+
+Resizable BAR: _Disabled_
+
+SuperIO: _Disabled_
+
+VD-x: _Enabled_
+
+VT-d: You can leave it _disabled_ or _enable_ it if you need it for Other OS. (MacOS can't/doesn't use VT-d)
 
 ## What's Working
 
