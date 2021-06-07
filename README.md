@@ -4,14 +4,13 @@ Opencore Bootloader EFI and config.plist file with all required Drivers and Kext
 
 ## Included Software
 
-OpenCore
-AppleALC
-Lilu
-VirtualSMC
-WhateverGreen
-NVMeFix
-CpuTscSync
-RealtekRTL8111
+OpenCore 0.6.9
+AppleALC 1.6.0
+Lilu 1.5.3
+NVMeFix 1.0.7
+RealtekRTL8111 2.4.2
+VirtualSMC 1.2.3
+WhateverGreen 1.4.9
 
 ## BIOS SETTINGS
 
