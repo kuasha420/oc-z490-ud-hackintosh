@@ -1,4 +1,4 @@
-# Gigabyte G1.Sniper M7 Hackintosh
+# Gigabyte Z490 UD Comet Lake Hackintosh
 
 Opencore Bootloader EFI and config.plist file with all required Drivers and Kexts for Gigabyte Z490 UD. (Tested With i5-10600).
 
