@@ -2,6 +2,8 @@
 
 Opencore Bootloader EFI and config.plist file with all required Drivers and Kexts for Gigabyte Z490 UD. (Tested With i5-10600).
 
+$$ NOTE: Current 'master' branch is only tested on macOS 11 Big Sur $$
+
 ## Included Software
 
 | Library        | Version |
